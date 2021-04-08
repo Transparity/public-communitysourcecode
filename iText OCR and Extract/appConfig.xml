@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  
+  <appSettings>
+    <add key="SyntexSiteUrl" value="" />
+    <add key="SyntexDocumentLibraryTitle" value="Documents"/>
+    <add key="SyntexSiteRelativeUrl" value=""/>
+    <add key="ExtractFilePath" value=""/>
+    <add key="TesseractFilePath" value=""/>
+    <add key="DownLoadFilePath" value=""/>
+    <add key="NoMatchFilePath" value=""/>
+    <add key="LogFilePath" value=""/>
+    <add key="UserName" value=""/>
+    <add key="Password" value=""/>
+    <add key="AzureFileConnectionString" value=""/>
+    <add key="AzureFileShareName" value=""/>
+    <add key="TestingFileCount" value="5"/>
+    <add key="ExtractTestingFileCount" value="5"/>
+    <add key="ExtractPhraseFile" value=""/>
+    <add key="ExtractOnly" value="Y"/>
+  </appSettings>
+    
+</configuration>
+
